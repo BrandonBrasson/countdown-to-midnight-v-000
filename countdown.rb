@@ -7,4 +7,3 @@ def countdown(time)
   end
   return "OMG ITS HAPPENING GUYS OMG HAPPY NEW YEAR!A AAAAAA"
 end
-
